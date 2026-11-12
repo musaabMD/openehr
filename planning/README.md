@@ -9,6 +9,9 @@ Updated: 2026-11-12. Planning only; no clinical application has been implemented
 | [Capability comparison and gap register](CAPABILITY_COMPARISON_MATRIX.md) | 85 scoped comparison/requirement rows, source status, scoring method and 14 explicit gap tasks |
 | [Offline operation and performance](OFFLINE_AND_PERFORMANCE.md) | Local hospital authority, internet-independent operation, downtime, synchronization, conflict rules and benchmark budgets |
 | [Hospital interface specification](HOSPITAL_GUI_SPEC.md) | Original tokens, role workspaces, screen contracts, accessibility and measured usability |
+| [Epic feature-by-feature review](EPIC_FEATURE_BY_FEATURE.md) | 190 baseline assessments and 17 new gap tasks with source evidence |
+| [Epic comparison CSV](EPIC_FEATURE_BY_FEATURE.csv) | Machine-readable IDs, evidence, plan status and implementation/validation baseline |
+| [Major EHR comparison](MAJOR_EHR_COMPARISON.md) | Epic first, plus 61 initial feature rows across eight other comparator families |
 
 ## Start here
 1. Read the comparison register's scoring rules; all implementation and clinical-validation scores are zero.
