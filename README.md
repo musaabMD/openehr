@@ -7,6 +7,7 @@ One longitudinal chart · role-based workspaces · closed-loop orders → pharma
 Runs in the browser, installs as an app, deploys to Cloudflare in one command.</p>
 
 <p align="center">
+  <a href="https://magic-ehr.mousab-r.workers.dev"><b>Live demo</b></a> ·
   <a href="#one-click-demo">One-click demo</a> ·
   <a href="#whats-built">What's built</a> ·
   <a href="#deploy-to-cloudflare">Deploy</a> ·
@@ -17,6 +18,10 @@ Runs in the browser, installs as an app, deploys to Cloudflare in one command.</
 ---
 
 ## One-click demo
+
+Hosted: open **<https://magic-ehr.mousab-r.workers.dev>** and press *Launch the demo hospital*.
+
+Locally:
 
 ```bash
 git clone https://github.com/musaabMD/openehr
