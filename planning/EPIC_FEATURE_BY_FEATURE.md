@@ -1,4 +1,6 @@
 # Epic versus our EHR plan — feature-by-feature review
+
+> **Current plan update (2026-11-12):** [Complete requirement contracts](COMPLETE_REQUIREMENTS_PLAN.md) now cover **180/180 functionality rows** plus **10/10 verification questions**, or **190/190 mapped rows**. The R/B/G counts and table below are the preserved historical baseline at commit 15cba2f; they no longer describe current requirements mapping. Current CSV retains baseline status and adds current planning status/contract links. Implementation and clinical validation remain 0%. Unknown comparator evidence remains unknown.
 Research and repository baseline: 2026-11-12, main commit 15cba2ffd60aa7a3f80bb3981373e2a58376087c. Scope: public product descriptions plus identified first-party customer evidence. This review assesses the existing plan BEFORE the new recommendations below; recommendations do not retroactively improve its score.
 
 ## Finding
