@@ -1,0 +1,33 @@
+{
+  "name": "magic-ehr",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Magic EHR — free, open-source, offline-first electronic health record. An independent alternative to enterprise EHRs, deployed on Cloudflare.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p tsconfig.json --noEmit && vite build",
+    "preview": "vite preview",
+    "cf:dev": "wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "dexie": "^4.0.11",
+    "dexie-react-hooks": "^1.1.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261110.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.7.2",
+    "vite": "^7.1.0",
+    "vite-plugin-pwa": "^1.0.3",
+    "wrangler": "^4.0.0"
+  }
+}
