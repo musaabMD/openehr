@@ -1,4 +1,6 @@
 # Major EHR comparison — Epic first
+
+> **Current plan update (2026-11-12):** [Closure ledger](MAJOR_EHR_REQUIREMENT_CLOSURE.md) maps **61/61 rows (100%)** to [explicit requirement contracts](COMPLETE_REQUIREMENTS_PLAN.md). Statuses below preserve the historical review, not current coverage. Implementation/validation remain zero; product-scope/availability unknowns remain unknown.
 Snapshot 2026-11-12. This is a product-scope comparison of our plan, not a ranking, market-share study, purchasing recommendation or claim of deployed parity.
 
 ## Review order and depth
